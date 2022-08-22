@@ -1,5 +1,4 @@
-{
-  "data": {
+ {
   "results": [
     {
       "objectId": 245,
@@ -120,5 +119,4 @@
     "uri": "https://example.com/create-iframe-contents",
     "label": "Create Ticket"
   }
-}
 }
